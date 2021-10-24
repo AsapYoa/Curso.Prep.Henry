@@ -49,8 +49,7 @@ function resta(x, y) {
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  var resultado = x*y;
-  return resultado;
+  return (x*y);
   
 }
 
